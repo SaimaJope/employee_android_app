@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.VARAH" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/v_blurple</item>
+        <item name="colorPrimaryVariant">@color/v_blurple</item>
+        <item name="colorOnPrimary">@color/v_white</item>
+        <item name="colorSecondary">@color/v_grey</item>
+        <item name="colorSecondaryVariant">@color/v_dark_grey</item>
+        <item name="colorOnSecondary">@color/v_white</item>
+        <item name="android:statusBarColor">@color/v_black</item>
+        <item name="android:windowBackground">@color/v_black</item>
+        <item name="android:colorBackground">@color/v_black</item>
+        <item name="android:textColor">@color/v_white</item>
+    </style>
+</resources>

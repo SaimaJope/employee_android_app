@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- VAHAR Discord-esque Theme -->
+    <color name="v_black">#FF202225</color>
+    <color name="v_dark_grey">#FF2f3136</color>
+    <color name="v_grey">#FF36393f</color>
+    <color name="v_blurple">#FF5865F2</color>
+    <color name="v_white">#FFFFFFFF</color>
+    <color name="v_light_grey">#FFB9BBBE</color>
+    <color name="white">#FFFFFF</color>
+</resources>

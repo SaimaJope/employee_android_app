@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_item_settings">Asetukset</string>
+    <string name="app_name">VAHAR</string>
+    <string name="main_prompt">Sijoita avain laitteen taakse</string>
+    <string name="main_status_connecting">Palvelimeen otetaan yhteyttä</string>
+    <string name="main_status_success">Suoritettu</string>
+    <string name="main_status_connection_error">Verkkovirhe</string>
+    <string name="main_error_no_api_key">API avainta ei ole määritelty. Määrittele avain asetuksista</string>
+    <string name="settings_title">Kiosk asetukset</string>
+    <string name="settings_api_key_hint">Kiosk API avain</string>
+    <string name="settings_button_save">Tallenna</string>
+    <string name="settings_toast_saved">Avain tallennettu onnistuneesti</string>
+    <string name="settings_toast_empty">Ei voi olla tyhjä</string>
+    <string name="server_welcome">%1$s! kirjautunut onnistuneesti</string>
+    <string name="server_goodbye">%1$s! kirjautunut ulos onnistuneesti</string>
+    <string name="server_cooldown">%1$d hetken päästä voit kirjautua ulos/sisälle</string>
+</resources>
